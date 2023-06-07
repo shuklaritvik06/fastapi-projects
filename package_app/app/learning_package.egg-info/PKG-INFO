@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: learning-package
+Version: 0.0.1
+Summary: A package learning
+Home-page: https://github.com/shuklaritvik06
+Author: shuklaritvik06
+Author-email: shuklaritvik@shuklaritvik.com
+License: MIT
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# Test Package
+

@@ -1,0 +1,7 @@
+setup.py
+app/learning_package.egg-info/PKG-INFO
+app/learning_package.egg-info/SOURCES.txt
+app/learning_package.egg-info/dependency_links.txt
+app/learning_package.egg-info/top_level.txt
+app/src/__init__.py
+app/src/main.py
