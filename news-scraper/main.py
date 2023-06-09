@@ -1,3 +1,7 @@
+"""
+    A news scraper CLI 
+"""
+
 import typer
 from bs4 import BeautifulSoup
 import requests
