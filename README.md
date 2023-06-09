@@ -1,4 +1,4 @@
-# Fastapi-Typer
+# Fastapi Learnings
 
-Exploring Fastapi and typer
+Exploring Fastapi
 
