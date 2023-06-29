@@ -10,6 +10,8 @@ Welcome to the FastAPI Projects repository! This repository houses a collection 
 - [x] Rich
 - [x] SQLAlchemy
 - [x] Typer (CLI)
+- [x] Scraping
+- [ ] Pydantic
 - [ ] Basic Auth
 - [ ] JWT Auth
 - [ ] OAuth2
